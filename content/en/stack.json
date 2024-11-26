@@ -105,6 +105,16 @@
       "name": "Firebase",
       "link": "https://firebase.google.com/",
       "logo": "SvgoFirebaseColor"
+    },
+    {
+      "name": "CSharp",
+      "link": "",
+      "logo": "SvgoCsharpColor"
+    },
+    {
+      "name": "Git",
+      "link": "",
+      "logo": "SvgoGitColor"
     }
   ]
 }
