@@ -7,7 +7,7 @@
       "questions": [
         {
           "title": "What services do you offer?",
-          "answer": "I offer a range of services including web design, web development, branding, and photography. I can also help with SEO and social media marketing."
+          "answer": "I offer a range of services including web design and web apps development. I can also help with voice over and story telling."
         },
         {
           "title": "Can you teach me how to make a website?",
@@ -20,7 +20,7 @@
       "questions": [
         {
           "title": "How much does a project cost?",
-          "answer": "The cost of a project depends on many factors, such as the size of the project, the features, the development time, etc. The initial amount of my web services starts at 2000€, with an average between 3000€ and 10000€. For any other design or consulting service, I usually charge 450€ per day."
+          "answer": "The cost of a project depends on many factors, such as the size of the project, the features, the development time, etc."
         },
         {
           "title": "How does payment work for a project?",
@@ -45,7 +45,7 @@
         },
         {
           "title": "Hobbies outside of work?",
-          "answer": "I love what I do, so I usually spend a lot of time working on personal projects, photography, etc. I'm also a big sports fan. I often go to the gym and I recently started climbing!"
+          "answer": "I love what I do, so I usually spend a lot of time working on personal projects, photography, etc."
         }
       ]
     }

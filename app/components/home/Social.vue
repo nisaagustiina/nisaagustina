@@ -2,8 +2,8 @@
 const socialMediaRegexMap = [
   { regex: /github\.com/, name: 'GitHub', logo: 'SvgoGithub' },
   { regex: /linkedin\.com/, name: 'LinkedIn', logo: 'SvgoLinkedin' },
-  { regex: /instagram\.com/, name: 'Instagram', logo: 'SvgoInstagram' },
   { regex: /api\.whatsapp\.com/, name: 'Whatsapp', logo: 'SvgoWhatsapp' },
+  { regex: /^mailto:/, name: 'Email', logo: 'SvgoEmail' }
 ]
 
 const { socials } = useAppConfig()
@@ -13,6 +13,7 @@ const mappedSocials = Object.values(socials).map((link) => {
   const { name, logo } = foundSocial
   return { name, link, logo }
 })
+
 </script>
 
 <template>

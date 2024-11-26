@@ -10,8 +10,8 @@ export default defineAppConfig({
   socials: {
     github: 'https://github.com/nisaagustiina',
     linkedin: 'https://www.linkedin.com/in/nisaagustina/',
-    instagram: 'https://www.instagram.com/_nagst',
-    whatsapp: 'https://api.whatsapp.com/send/?phone=628986028257'
+    whatsapp: 'https://api.whatsapp.com/send/?phone=628986028257',
+    email: 'mailto:nisaagustiina@gmail.com' 
   },
   ui: {
     primary: 'emerald',
